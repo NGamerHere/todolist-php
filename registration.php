@@ -59,7 +59,7 @@
 
 <div class="container login-container">
     <div class="login-form">
-        <h2 class="text-center mb-4">Login</h2>
+        <h2 class="text-center mb-4">Registration</h2>
         <form>
             <div class="mb-3">
                 <div class="input-group">
